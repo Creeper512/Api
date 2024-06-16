@@ -1,4 +1,4 @@
-## Project Earth Api
+## Project Earth API
 *The core API for Project Earth*
 
 ## DISCLAIMER
