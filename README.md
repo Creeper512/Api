@@ -1,5 +1,5 @@
 ## Project Earth API
-*The core API for Project Earth*
+*The core APi for Project Earth*
 
 ## DISCLAIMER
 The API implementation is NOT complete, which means that not all of the game features might work as expected.
